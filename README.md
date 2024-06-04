@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Knightmare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knightmareviiviixc)](https://github.com/KnightmareVIIVIIXC)
 
 <!--
 **KnightmareVIIVIIXC/knightmareviiviixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
