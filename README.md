@@ -1,8 +1,5 @@
 ![Knightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=knightmareviiviixc&show_icons=true&theme=blue-green)
 
-<a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KnightmareVIIVIIXC/AIO-Firebog-Blocklists" />
-</a>
 <!--
 **KnightmareVIIVIIXC/knightmareviiviixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
